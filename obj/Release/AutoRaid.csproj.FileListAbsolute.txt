@@ -1,0 +1,9 @@
+C:\Users\mcroo\source\repos\AutoRaid\AutoRaid\bin\Release\AutoRaid.exe.config
+C:\Users\mcroo\source\repos\AutoRaid\AutoRaid\bin\Release\AutoRaid.exe
+C:\Users\mcroo\source\repos\AutoRaid\AutoRaid\bin\Release\AutoRaid.pdb
+C:\Users\mcroo\source\repos\AutoRaid\AutoRaid\bin\Release\WindowsInput.dll
+C:\Users\mcroo\source\repos\AutoRaid\AutoRaid\bin\Release\WindowsInput.xml
+C:\Users\mcroo\source\repos\AutoRaid\AutoRaid\obj\Release\AutoRaid.csprojAssemblyReference.cache
+C:\Users\mcroo\source\repos\AutoRaid\AutoRaid\obj\Release\AutoRaid.csproj.CopyComplete
+C:\Users\mcroo\source\repos\AutoRaid\AutoRaid\obj\Release\AutoRaid.exe
+C:\Users\mcroo\source\repos\AutoRaid\AutoRaid\obj\Release\AutoRaid.pdb
